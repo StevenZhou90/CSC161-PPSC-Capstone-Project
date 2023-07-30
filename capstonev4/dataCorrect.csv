@@ -1,0 +1,100 @@
+Address (ID),Suburb,Rooms,Price,Landsize,Bathroom
+85 Turner St,Abbotsford,2,1480000,202,1
+25 Bloomburg St,Abbotsford,2,1035000,156,1
+5 Charles St,Abbotsford,3,1465000,134,2
+40 Federation La,Abbotsford,3,850000,94,2
+55a Park St,Abbotsford,4,1600000,120,1
+129 Charles St,Abbotsford,2,941000,181,1
+124 Yarra St,Abbotsford,3,1876000,245,2
+98 Charles St,Abbotsford,2,1636000,256,1
+6/241 Nicholson St,Abbotsford,1,300000,0,1
+10 Valiant St,Abbotsford,2,1097000,220,1
+411/8 Grosvenor St,Abbotsford,2,700000,0,2
+40 Nicholson St,Abbotsford,3,1350000,214,2
+123/56 Nicholson St,Abbotsford,2,750000,0,2
+45 William St,Abbotsford,2,1172500,195,1
+7/20 Abbotsford St,Abbotsford,1,441000,0,1
+16 William St,Abbotsford,2,1310000,238,1
+42 Henry St,Abbotsford,3,1200000,113,2
+78 Yarra St,Abbotsford,3,1176500,138,1
+196 Nicholson St,Abbotsford,3,955000,183,1
+42 Valiant St,Abbotsford,2,890000,150,1
+3/72 Charles St,Abbotsford,4,1330000,780,2
+13/11 Nicholson St,Abbotsford,3,900000,0,2
+138/56 Nicholson St,Abbotsford,3,1090000,4290,2
+6/219 Nicholson St,Abbotsford,2,500000,0,1
+52a William St,Abbotsford,2,1100000,124,2
+49 Park St,Abbotsford,2,1315000,147,1
+5/20 Abbotsford St,Abbotsford,1,426000,0,1
+48 Abbotsford St,Abbotsford,3,1447500,166,3
+116/56 Nicholson St,Abbotsford,1,457000,0,1
+159 Park St,Abbotsford,2,1135000,98,2
+31 Turner St,Abbotsford,4,1542000,0,3
+166 Gipps St,Abbotsford,3,1290000,147,2
+60 Stafford St,Abbotsford,3,1290000,168,1
+11/205 Gipps St,Abbotsford,1,470000,0,1
+47 Studley St,Abbotsford,2,1180000,162,1
+45 Yarra St,Abbotsford,3,1195000,120,2
+200 Nicholson St,Abbotsford,2,1012500,182,1
+27 Charles St,Abbotsford,2,1030000,172,1
+154 Halsey Rd,Airport West,3,840000,303,2
+50 Bedford St,Airport West,3,730000,0,2
+50 Bedford St,Airport West,3,770000,0,2
+23 Hart St,Airport West,2,603000,272,1
+1/80 Hawker St,Airport West,3,700000,239,2
+1/37 Hillside Gr,Airport West,3,600000,290,1
+2/49 McIntosh St,Airport West,2,500000,168,1
+54 Marshall Rd,Airport West,3,720000,620,1
+36 Roberts Rd,Airport West,4,785000,597,1
+11 Harrington Rd,Airport West,6,725000,976,3
+2/252 Parer Rd,Airport West,2,450000,110,1
+3/19 Hart St,Airport West,2,515000,141,1
+2/62 Clydesdale Rd,Airport West,2,530000,120,1
+3 Deidre Ct,Airport West,3,895000,1063,1
+13 Etzel St,Airport West,3,805000,0,1
+1/43 Cameron St,Airport West,3,752000,265,1
+145a Victory Rd,Airport West,2,440000,192,1
+241 Parer Rd,Airport West,5,755000,596,2
+2/40 Earl St,Airport West,3,700000,165,2
+180 Parer Rd,Airport West,3,830000,971,1
+4/54 Hawker St,Airport West,2,462500,164,1
+43 Hillside Gr,Airport West,3,670000,657,2
+174 Parer Rd,Airport West,2,675000,612,1
+138 Victory Rd,Airport West,3,1042000,612,2
+75 King St,Airport West,3,910000,775,1
+6 Kittyhawk St,Airport West,4,773000,531,3
+478 Fullarton Rd,Airport West,3,810000,555,3
+144 Marshall Rd,Airport West,3,715000,422,2
+106 Parer Rd,Airport West,3,790000,614,1
+3/7 South Rd,Airport West,3,540000,161,2
+37 North St,Airport West,3,825000,293,2
+10 Hilbert Rd,Airport West,3,685000,579,1
+110 Halsey Rd,Airport West,3,805000,623,1
+2/13 North St,Airport West,2,510000,141,1
+105a Victory Rd,Airport West,3,612000,212,2
+117 Marshall Rd,Airport West,3,662000,612,1
+34 Moorna Dr,Airport West,4,978000,532,3
+33 North St,Airport West,3,720000,585,1
+49 Roberts Rd,Airport West,4,765000,509,1
+85 Roberts Rd,Airport West,4,900000,628,2
+105 Kerferd Rd,Albert Park,2,1275000,120,1
+85 Richardson St,Albert Park,2,1455000,159,1
+112 Beaconsfield Pde,Albert Park,3,2850000,211,2
+94 Graham St,Albert Park,3,1850000,128,2
+396 Montague St,Albert Park,2,1436000,130,1
+75 Graham St,Albert Park,2,1110000,147,1
+54 Brooke St,Albert Park,2,1550000,167,1
+104 Richardson St,Albert Park,4,2300000,153,2
+4a Mills St,Albert Park,3,1550000,718,2
+1 Moubray St,Albert Park,3,1800000,132,2
+29 Faussett St,Albert Park,2,2120000,199,1
+3 Herbert St,Albert Park,3,1800000,253,1
+24 Kerferd Pl,Albert Park,3,1800000,90,2
+44 Draper St,Albert Park,2,1810000,240,1
+2 Dundas Pl,Albert Park,3,2615000,177,2
+23 Finlay St,Albert Park,5,2100000,237,2
+31 Richardson St,Albert Park,3,1300000,129,1
+4a Gatehouse La,Albert Park,3,1370000,0,2
+60 Brooke St,Albert Park,2,1000000,288,1
+70 Barrett St,Albert Park,3,2575000,228,2
+65 Graham St,Albert Park,2,1322500,149,1
